@@ -1,0 +1,6 @@
+plugins {
+    id 'java'
+}
+
+group = 'com.pshakhlovich.coding.dsa'
+version = '1.0-SNAPSHOT'
