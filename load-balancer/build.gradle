@@ -1,0 +1,7 @@
+plugins {
+    id 'java'
+}
+
+group = 'com.pshakhlovich.coding.loadbalancer'
+version = '1.0-SNAPSHOT'
+
