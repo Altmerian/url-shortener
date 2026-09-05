@@ -39,3 +39,9 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### Custom
+.claude/
+.agents/
+docs/prompts/
+skills-lock.json

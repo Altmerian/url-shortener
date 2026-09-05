@@ -70,15 +70,15 @@ This project uses Gradle as the build tool. You can build all modules using:
 
 ## Requirements
 
-- Java 21 or higher
-- Gradle 8.5 (wrapper included)
+- Java 25 or higher
+- Gradle 9.5 (wrapper included)
 
 ## Project Configuration
 
 The project uses:
-- JUnit 5 for testing
+- JUnit 6 for testing
 - AssertJ for fluent assertions
-- Java 21 language level
+- Java 25 language level
 
 ## Adding New Modules
 
